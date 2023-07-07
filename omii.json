@@ -609,7 +609,7 @@
         },
         {
             "key": "ext_live_protocol",
-            "name": "欢迎关注 http://omii.top",
+            "name": "接口收集于网络",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
