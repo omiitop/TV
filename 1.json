@@ -589,7 +589,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "关注奥秘博客”",
+      "name": "欢迎关注奥秘博客",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
